@@ -6,6 +6,6 @@ if height >= 120:
   if age >= 18:
    print("You are over 18. Please pay 12 dollars")
   else:
-    print("You are under 18. Please pay 7 dollars)
+    print("You are under 18. Please pay 7 dollars")
 else:
   print("Sorry, you are NOT tall enough to ride the rollercoaster!")
